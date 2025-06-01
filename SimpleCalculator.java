@@ -7,8 +7,8 @@
  * a user-friendly interface where users can input numbers and select operations, 
  * displaying the results in real-time.
  * 
- * Author: [Your Name]
- * Date: [Submission Date]
+ * Author: NAGAVARAPU VISHNU VARDHAN
+ * Date: june-1st
  * Repository: https://github.com/yourusername/Simple-Calculator-Java
  */
 
